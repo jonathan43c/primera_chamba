@@ -1,0 +1,6 @@
+# Ignorar el directorio "venv"
+venv/
+
+
+#ignorar BD
+db.sqlite3
